@@ -1,0 +1,16 @@
+//tam sayı türleri
+
+//artı değer alanlar (positive values) => Nat8, Nat16, Nat32 ve Nat64
+
+let x : Nat8 = 4 // 4 : Nat8
+
+//artı ya da eksi değer alabilenler (positive or negative values) => Int8, Int16, Int32 ve Int64
+
+let m : Int8 = 2 // +2 : Int8
+let n : Int8 = -3 // -3 : Int8
+
+//DEVAM EDECEK!...
+//DEVAM EDECEK!...
+//DEVAM EDECEK!...
+//DEVAM EDECEK!...
+//DEVAM EDECEK!...
